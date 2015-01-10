@@ -2,7 +2,7 @@
 layout: post
 title:  "Setting up Jekyll in 5 mins"
 date:   2015-01-10 11:52:26
-categories: jekyll tutorial
+category: blog
 ---
 Let me walk you through the steps to setup jekyll for you static website. You can also find it on <a href="http://jekyllrb.com/">Jekyll</a> website
 

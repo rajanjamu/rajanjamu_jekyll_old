@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Flames"
+date:   2015-01-10 12:52:26
+category: project
+---
+This is a fun game that each one of us played at some point in time in our life. In this application, you can give your name and one another person with whom you wish to know what Mr. Computer thinks about your relation.
+
+Click on the link above and recollect your childhood memories.
+
+<br/>
+<a href="https://rajanjamu-flames.herokuapp.com/" target="_blank"><button type="button" class="btn btn-default">Demo</button></a>
+<a href="https://github.com/rajanjamu/flamesGame_app" target="_blank"><button type="button" class="btn btn-default">Source Code</button></a>

@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Calculator"
+date:   2015-01-10 12:52:26
+category: project
+---
+I got up one fine day and had nothing to do. I was longing to dive into web development but never got started, thinking about its vast scope. This day, I took the baby step and decided to develop a hello world web application. And here it is.
+
+As you can imagine, it can act as your pet for basic calculations. Don't blame me for any bugs.
+
+<br/>
+<a href="http://artool.in/calculator/" target="_blank"><button type="button" class="btn btn-default">Demo</button></a>
